@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T17:38:17.655Z",
+  "generated_at": "2026-10-20T17:38:20.080Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -281,6 +281,65 @@
       "last_pushed_at": "2026-09-24T18:54:27.378Z",
       "language": "python",
       "lines": 11
+    },
+    "problem:184": {
+      "kind": "problem",
+      "id": "184",
+      "title": "Empirical Probability Mass Function (PMF)",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/184",
+      "path": "problems/0184-empirical-probability-mass-function-pmf",
+      "first_solved_at": "2026-09-25T01:55:27.200Z",
+      "last_pushed_at": "2026-09-25T01:55:27.200Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2026-09-25T14:16:53.540Z",
+      "last_pushed_at": "2026-09-25T14:16:53.540Z",
+      "language": "python",
+      "lines": 7
+    },
+    "math:11": {
+      "kind": "math",
+      "id": "11",
+      "title": "Determinants and Trace",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/11",
+      "path": "math/0011-determinants-and-trace",
+      "first_solved_at": "2026-09-25T14:20:03.278Z",
+      "last_pushed_at": "2026-09-25T14:20:03.278Z"
+    },
+    "math:12": {
+      "kind": "math",
+      "id": "12",
+      "title": "Inverse and Rank",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/12",
+      "path": "math/0012-inverse-and-rank",
+      "first_solved_at": "2026-09-25T14:27:15.400Z",
+      "last_pushed_at": "2026-09-25T14:27:15.400Z"
+    },
+    "math:13": {
+      "kind": "math",
+      "id": "13",
+      "title": "Solving Linear Systems",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/13",
+      "path": "math/0013-solving-linear-systems",
+      "first_solved_at": "2026-09-25T14:29:57.598Z",
+      "last_pushed_at": "2026-09-25T14:29:57.598Z"
     }
   }
 }
