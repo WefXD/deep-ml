@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T17:38:20.080Z",
+  "generated_at": "2026-10-20T17:38:22.409Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -340,6 +340,80 @@
       "path": "math/0013-solving-linear-systems",
       "first_solved_at": "2026-09-25T14:29:57.598Z",
       "last_pushed_at": "2026-09-25T14:29:57.598Z"
+    },
+    "math:30": {
+      "kind": "math",
+      "id": "30",
+      "title": "ML Workflow Basics",
+      "difficulty": "easy",
+      "category": "Supervised learning setup",
+      "url": "https://www.deep-ml.com/math-problems/30",
+      "path": "math/0030-ml-workflow-basics",
+      "first_solved_at": "2026-09-28T02:06:39.374Z",
+      "last_pushed_at": "2026-09-28T02:06:39.374Z"
+    },
+    "math:34": {
+      "kind": "math",
+      "id": "34",
+      "title": "Least Squares and the Normal Equations",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/34",
+      "path": "math/0034-least-squares-and-the-normal-equations",
+      "first_solved_at": "2026-09-28T02:24:28.474Z",
+      "last_pushed_at": "2026-09-28T02:24:28.474Z"
+    },
+    "problem:1058": {
+      "kind": "problem",
+      "id": "1058",
+      "title": "Random Train/Validation/Test Split with Shuffling",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1058",
+      "path": "problems/1058-random-train-validation-test-split-with-shuffling",
+      "first_solved_at": "2026-09-28T02:43:05.501Z",
+      "last_pushed_at": "2026-09-28T02:43:05.501Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:16": {
+      "kind": "problem",
+      "id": "16",
+      "title": "Feature Scaling Implementation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/16",
+      "path": "problems/0016-feature-scaling-implementation",
+      "first_solved_at": "2026-09-28T02:53:42.421Z",
+      "last_pushed_at": "2026-09-28T02:53:42.421Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:842": {
+      "kind": "problem",
+      "id": "842",
+      "title": "StandardScaler Fit and Transform",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/842",
+      "path": "problems/0842-standardscaler-fit-and-transform",
+      "first_solved_at": "2026-09-28T03:07:03.659Z",
+      "last_pushed_at": "2026-09-28T03:07:03.659Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:112": {
+      "kind": "problem",
+      "id": "112",
+      "title": "Min-Max Scaling of Feature Values",
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/112",
+      "path": "problems/0112-min-max-scaling-of-feature-values",
+      "first_solved_at": "2026-09-28T03:12:39.360Z",
+      "last_pushed_at": "2026-09-28T03:12:39.360Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
